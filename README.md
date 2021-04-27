@@ -27,5 +27,3 @@ For this project, I pulled the dataset from the UCI Repository where all patient
 ### [Stock Marketing Clustering](https://github.com/kaminiravichandran/Stock-Market-Clustering)
 For this project I created a data dictionary with companies like Apple, Microsoft, McDonalds etc. to download data from yahoo finance between the dates '2015-01-01' and '2017-12-31' using Pandas- data reader. I went on to calculate daily stock movements for each of the companies and visualized my findings. Furthermore, I used K-means clustering on stock market movements using the PCA Reduced data. Hence, we are able to visualise our 10 clusters on a 2-D scale and observe where our data is coming from as shown in the graph below. 
 
-
-
