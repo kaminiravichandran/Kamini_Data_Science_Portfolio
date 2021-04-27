@@ -14,11 +14,10 @@ The data was for a hotel marketing campaign. I had to quantify the key features 
 
 
 ### [House Prices Detection & Mobile Prices Classification](https://github.com/kaminiravichandran/Machine-Learning)
-I performed a Classification and Regression Model for this Project. 
 
-For the Regression Model I pulled the dataset from Kaggle which consists of house prices from King County an area in the US State of Washington, between May 2014 to May 2015. The dataset consisted of 21 variables and 21613 observations. I trained several Machine Learning models and found that the best machine learning model for this dataset is linear regression with perfect train and test score, however considering all the scenarios model which works the best is the ridge with aplha value 150.
+House Prices Detection: For this project, I pulled the dataset from Kaggle which consists of house prices from King County an area in the US State of Washington, between May 2014 to May 2015. Hence, it was a regression problem. The dataset consisted of 21 variables and 21613 observations. I trained several Machine Learning models and found that the best machine learning model for this dataset is linear regression with perfect train and test score, however considering all the scenarios model which works the best is the ridge with aplha value 150.
 
-For the Classification Model I pulled the dataset from Kaggle which consists of data of mobile phones of various companies. Using this data the goal was to be able to classify a suitable mobile price range based on several variables like RAM,Internal Memory, battery power, etc.  The dataset consisted of 21 variables and 2000 observations. I trained several Machine learning models and found that the best model for classification dataset is the Support Vector Classifier with linear Kernel and C value as 1.
+Mobile Prices Classification: For this project, I pulled the dataset from Kaggle which consists of data of mobile phones of various companies. Using this data the goal was to be able to classify a suitable mobile price range based on several variables like RAM,Internal Memory, battery power, etc.  The dataset consisted of 21 variables and 2000 observations. I trained several Machine learning models and found that the best model for classification dataset is the Support Vector Classifier with linear Kernel and C value as 1.
 
 
 
