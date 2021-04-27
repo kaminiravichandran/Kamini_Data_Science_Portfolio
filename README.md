@@ -2,9 +2,11 @@
 Data Science Portfolio
 
 ### [Credit Card Fraud Detection](https://github.com/kaminiravichandran/credit-card-fraud-final)
-Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. In this project, that is exactly what we are going to be doing as well. Using a dataset of of nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, we are going to identify transactions with a high probability of being credit card fraud. In this project, we will build and deploy the following two machine learning algorithms:
+Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. In this project I used the dataset from Kaggle which contains transactions made by credit cards in September 2013 by european cardholders. I used python to predict if a transaction was credit card fraud. For confidentiality reasons only 2 variables were exposed and I used those to detect traces of fraud. I Trained the algorithm to detect the outlier (which is the fraud). Finally, I was able to detect 30% of fraud transactions correctly and 71 out of 28500 as fraud which is 2% of fraud which is a small amount. But If we are able to implement this in a company we can reduce the credit card fraud and save money for the company.
 
-1.Local Outlier Factor (LOF)
-2.Isolation Forest Algorithm
 
-Also, using metrics suchs as precision, recall, and F1-scores, we will investigate why the classification accuracy for these algorithms can be misleading.
+### [Breast Cancer Detection](https://github.com/kaminiravichandran/Breast-Cancer-Detection)
+For this project I used the Original Wisconsin Breast Cancer Database collected in 1992-07-15 which contains characteristics of cells nucleii for breast cancer prediction. There were 11 variables, like mitosis, cell size and cell shape that I used to detect malignant cancer or benign cancer. I trained the algorithms KNN and SVM to detect breast cancer with 96% accuracy. I found out that with increase in mitosis and cell size there was higher chance of malignant cancer than benign cancer. This machine learning algorithm can be implemented in hospitals to help doctors detect cancer simply by inputing the values for the variables.
+
+
+
