@@ -22,3 +22,10 @@ Mobile Prices Classification: For this project, I pulled the dataset from Kaggle
 
 ### [Diabetes Onset Detection](https://github.com/kaminiravichandran/Diabetes-Onset-Detection)
 For this project, I pulled the dataset from the UCI Repository where all patients here are females at least 21 years old of Pima Indian heritage. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The dataset consists of several medical predictor variables and one target variable, Class. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. In this project, I will be depicting the usage of the scikit-learn grid search capability to diagnostically classify whether the patient has diabetes or not with 78% accuracy.
+
+
+### [Stock Marketing Clustering](https://github.com/kaminiravichandran/Stock-Market-Clustering)
+For this project I created a data dictionary with companies like Apple, Microsoft, McDonalds etc. to download data from yahoo finance between the dates '2015-01-01' and '2017-12-31' using Pandas- data reader. I went on to calculate daily stock movements for each of the companies and visualized my findings. Furthermore, I used K-means clustering on stock market movements using the PCA Reduced data. Hence, we are able to visualise our 10 clusters on a 2-D scale and observe where our data is coming from in the graph below. 
+
+
+
