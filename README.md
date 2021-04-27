@@ -1,10 +1,13 @@
 # Kamini_Portfolio
 Data Science Portfolio
 
+
+![](https://github.com/kaminiravichandran/Kamini_Portfolio/blob/main/images/creditcardfraudhome.jpg)
 ### [Credit Card Fraud Detection](https://github.com/kaminiravichandran/credit-card-fraud-final)
 Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. In this project I used the dataset from Kaggle which contains transactions made by credit cards in September 2013 by european cardholders. I used python to predict if a transaction was credit card fraud. For confidentiality reasons only 2 variables were exposed and I used those to detect traces of fraud. I Trained the algorithm to detect the outlier (which is the fraud). Finally, I was able to detect 30% of fraud transactions correctly and 71 out of 28500 as fraud which is 2% of fraud which is a small amount. But If we are able to implement this in a company we can reduce the credit card fraud and save money for the company.
 
 ![](https://github.com/kaminiravichandran/Kamini_Portfolio/blob/main/images/creditcard2.png)
+
 
 
 
@@ -15,10 +18,12 @@ For this project I used the Original Wisconsin Breast Cancer Database collected 
 
 
 
+
 ### [Hotel Marketing Case Study](https://github.com/kaminiravichandran/Hotel-Marketing-Case-Study)
 The data was for a hotel marketing campaign. I had to quantify the key features impacting the performance of Net Room Nights in the dataset. There were 87,000 rows of data and 10 features like, which platform(mobile or web), which website, the no. of visits to web, the no. of total orders. I trained the linear regression model to be able to predict the net room nights given the other parameters with an accuracy of 98%. I found that it would be better to invest in marketing campaigns especially towards Airbnb desktop customers during the months of may to august as it was summer holiday time and the hotel business is thriving.
 
 ![](https://github.com/kaminiravichandran/Kamini_Portfolio/blob/main/images/hotelmkt.png)
+
 
 
 
@@ -36,10 +41,14 @@ Mobile Prices Classification: For this project, I pulled the dataset from Kaggle
 
 
 
+
 ### [Diabetes Onset Detection](https://github.com/kaminiravichandran/Diabetes-Onset-Detection)
-For this project, I pulled the dataset from the UCI Repository where all patients here are females at least 21 years old of Pima Indian heritage. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The dataset consists of several medical predictor variables and one target variable, Class. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. In this project, I will be depicting the usage of the scikit-learn grid search capability to diagnostically classify whether the patient has diabetes or not with 78% accuracy.
 
 ![](https://github.com/kaminiravichandran/Kamini_Portfolio/blob/main/images/diabetes.jpg)
+
+For this project, I pulled the dataset from the UCI Repository where all patients here are females at least 21 years old of Pima Indian heritage. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The dataset consists of several medical predictor variables and one target variable, Class. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. In this project, I will be depicting the usage of the scikit-learn grid search capability to diagnostically classify whether the patient has diabetes or not with 78% accuracy.
+
+
 
 
 
@@ -47,4 +56,5 @@ For this project, I pulled the dataset from the UCI Repository where all patient
 For this project I created a data dictionary with companies like Apple, Microsoft, McDonalds etc. to download data from yahoo finance between the dates '2015-01-01' and '2017-12-31' using Pandas- data reader. I went on to calculate daily stock movements for each of the companies and visualized my findings. Furthermore, I used K-means clustering on stock market movements using the PCA Reduced data. Hence, we are able to visualise our 10 clusters on a 2-D scale and observe where our data is coming from as shown in the graph below. 
 
 ![](https://github.com/kaminiravichandran/Kamini_Portfolio/blob/main/images/stock1.png)
+
 ![](https://github.com/kaminiravichandran/Kamini_Portfolio/blob/main/images/stock2.png)
