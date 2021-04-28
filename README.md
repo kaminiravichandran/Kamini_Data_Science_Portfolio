@@ -1,3 +1,5 @@
+Instruction: Click on the Project Name to view my Projects in Github
+
 ![](/images/creditcardfraudhome.jpg)
 ### [Credit Card Fraud Detection](https://github.com/kaminiravichandran/credit-card-fraud-final)
 Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. In this project I used the dataset from Kaggle which contains transactions made by credit cards in September 2013 by european cardholders. I used python to predict if a transaction was credit card fraud. For confidentiality reasons only 2 variables were exposed and I used those to detect traces of fraud. I Trained the algorithm to detect the outlier (which is the fraud). Finally, I was able to detect 30% of fraud transactions correctly and 71 out of 28500 as fraud which is 2% of fraud which is a small amount. But If we are able to implement this in a company we can reduce the credit card fraud and save money for the company.
